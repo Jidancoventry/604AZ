@@ -1,0 +1,8 @@
+frontend/node_modules/
+frontend/dist/
+frontend/.env.production
+aws/backend/node_modules/
+aws/backend/dist/
+aws/backend/src/seed.json
+aws/.build/
+*.log
